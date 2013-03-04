@@ -7,4 +7,10 @@ body {
      ('cloth_alike.png');
      background-repeat: repeat;
 }
+container {
+    margin: 0 auto;
+    font-size: 13px;
+    text-align: center;
+    max-width: 670px;
+}
 
