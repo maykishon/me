@@ -13,4 +13,10 @@ container {
     text-align: center;
     max-width: 670px;
 }
-
+may_img {
+        margin: 0px 15px 15px 0px;
+box-shadow: 3px 3px 8px #888888
+    -webkit-box-shadow: 1px 1px 4px rgba(51, 50, 50, 0.86);
+-moz-box-shadow:    1px 1px 4px rgba(51, 50, 50, 0.86);
+box-shadow:    1px 1px 4px rgba(51, 50, 50, 0.86);
+}
