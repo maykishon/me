@@ -1,11 +1,10 @@
 h1 {
-    padding-top: 4em;
+    padding-top: 10px;
     font-family: helvetica, ariel, sans-serif;
+    text-align: center;
 }
 body {
-     background-image: "file://localhost/Users/maykishon/Documents/May/photoshop%20stuff/Pattern/cloth_alike/cloth_alike.png"
-     ('cloth_alike.png');
-     background-repeat: repeat;
+     background-color:#D8D8D8
 }
 container {
     margin: 0 auto;
