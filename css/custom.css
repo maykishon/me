@@ -13,9 +13,5 @@ container {
     max-width: 670px;
 }
 may_img {
-   clear: both;
-    padding: 60px 32px 0 32px;
-    position: relative;
-    text-align: center;
-    z-index: 10;
+ padding-top: 100px;
 }
