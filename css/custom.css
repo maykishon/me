@@ -4,7 +4,8 @@ h1 {
     text-align: center;
 }
 body {
-    background-image:"https://github.com/maykishon/me/blob/gh-pages/img/my%20page.png?raw=true"('my page.png');}
+    background-image:"https://github.com/maykishon/me/blob/gh-pages/img/my%20page.png?raw=true";
+    }
 container {
     padding-top: 200px;
     font-size: 15px;
