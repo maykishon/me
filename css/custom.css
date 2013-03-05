@@ -4,7 +4,7 @@ h1 {
     text-align: center;
 }
 body {
-    background-image:url('my page.png');}
+    background-image:"https://github.com/maykishon/me/blob/gh-pages/img/my%20page.png?raw=true"('my page.png');}
 container {
     padding-top: 200px;
     font-size: 15px;
