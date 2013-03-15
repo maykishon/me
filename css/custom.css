@@ -7,6 +7,12 @@ h1 {
 body {
 
     }
+.background {
+width: 100%;
+height: 100%;
+top: 0;
+left: 0;
+}
 
 aside{
 	position: absolute;
@@ -16,6 +22,12 @@ aside{
 	height: 100%;
     background: rgba(249,101,35,0.5);
     color: #ffffff;
+}
+aside .facebook{
+
+    position: relative;
+    padding-left: 20px;
+    padding-top: 30px;
 }
 .p1 {
     padding-left: 20px;
@@ -27,3 +39,4 @@ aside{
     padding-left: 20px;
     padding-right: 20px;
 }
+
