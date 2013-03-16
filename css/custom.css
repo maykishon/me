@@ -33,11 +33,27 @@ aside .p2 {
     padding-left: 20px;
     padding-right: 20px;
 }
+aside .websitelink .p3 {
+    position: relative;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+    color: #ffffff;
+    z-index: -1;
+
+}
+aside .p3 {
+    position: relative;
+    padding-left: 20px;
+    z-index: -1;
+}
 aside .facebook{
     float: left;
     padding-left: 20px;
     padding-top: 30px;
     position: relative;
+    overflow: hidden;
+-webkit-transition: opacity .25s ease-out;
 }
 
 aside .twitter {
@@ -45,14 +61,10 @@ aside .twitter {
     padding-top: 30px;
     padding-left: 20px;
     position: relative;
+    overflow: hidden;
+-webkit-transition: opacity .25s ease-out;
 }
-aside .websitelink .p3 {
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 50px;
-    color: #ffffff;
 
-}
 aside .weblink {
     padding-left: 20px;
     position: relative;
