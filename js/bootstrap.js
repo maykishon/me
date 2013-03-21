@@ -57,6 +57,9 @@
 
   })
 
+  $('#example').tooltip(options)
+
+
 }(window.jQuery);/* ==========================================================
  * bootstrap-alert.js v2.3.0
  * http://twitter.github.com/bootstrap/javascript.html#alerts
