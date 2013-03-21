@@ -81,6 +81,32 @@ aside .weblink {
     margin-top: 265px;
 }
 
+.notebook {
+   position: absolute;
+    width: 122px;
+    height: 100px;
+    color: red;
+    margin-left: 500px;
+    margin-top: 265px;
+}
+.mac {
+   position: absolute;
+    width: 122px;
+    height: 100px;
+    color: red;
+    margin-left: 300px;
+    margin-top: 265px;
+}
+.markers {
+   position: absolute;
+    width: 122px;
+    height: 400px;
+    color: red;
+    margin-left: 243px;
+    margin-top: 265px;
+}
+
+
 
 
 
