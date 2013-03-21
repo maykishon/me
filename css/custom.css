@@ -64,6 +64,24 @@ aside .weblink {
     position: relative;
 }
 
+.box {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    color: red;
+    margin-left: 440px;
+    margin-top: 200px;
+}
+.black {
+    position:absolute;
+    width: 100px;
+    height: 100px;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
 
 
 
